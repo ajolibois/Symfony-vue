@@ -1,0 +1,6 @@
+App\Application\Configurator\Quad\Command\Create\:
+    resource: ../src/Application/Configurator/Quad/Command/Create/CreateQuadController.php
+    type: annotation
+App\Application\Configurator\Quad\Command\AddComponent\:
+    resource: ../src/Application/Configurator/Quad/Command/AddComponent/AddComponentController.php
+    type: annotation
